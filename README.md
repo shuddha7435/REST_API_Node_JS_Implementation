@@ -7,5 +7,5 @@ Technology Stack:
 Node.JS
 Express.JS
 Joi Library
-Nodemon
+Nodemon.
 
