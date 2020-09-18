@@ -8,8 +8,7 @@ I have provided the screenshot for the code here. I have tested this app with sa
 
 
 **Technology Stack**
-- HTML
-- CSS
+- JSON
 - JavaScript
 - Node.JS
 - Express.JS
